@@ -1,6 +1,7 @@
 local trashScreen = Instance.new("ScreenGui")
 local trashgui = Instance.new("Frame")
 local button = Instance.new("TextButton")
+
 trashScreen.Name = "trashScreen"
 trashScreen.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 trashScreen.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
@@ -34,9 +35,18 @@ button.MouseButton1Down:Connect(function()
 		' Buy yourself an aim',
 
 		'ez', 
+		
 		'ez',
-		'ez',
-		'ez',
+		
+		'do you like to eat fat',
+    
+                'runner',
+		
+		'Trip Hub Good,you bad',
+
+                'Scared kid',
+		
+		'trash',
 
 		' You are my pet',
 
