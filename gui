@@ -5,6 +5,7 @@ local button = Instance.new("TextButton")
 trashScreen.Name = "trashScreen"
 trashScreen.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 trashScreen.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+trashScreen.ResetOnSpawn = false 
 
 trashgui.Name = "trashgui"
 trashgui.Parent = trashScreen
